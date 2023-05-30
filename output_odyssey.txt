@@ -1,0 +1,596 @@
+thoosa(61): bhoosa 
+taphians(83): paphians 
+draughts(86): fraughts droughts 
+honoured(93): honored 
+anchialus(140): 
+taphians(141): paphians 
+temesa(142): temes 
+harbour(144): harbor 
+rheithron(144): 
+neritum(145): nerium 
+dulichium(190): 
+ilus(202): hilus pilus iglus iulus ileus flus plus ulus iuus ilks ills 
+ilus(202): hilus pilus iglus iulus ileus flus plus ulus iuus ilks ills 
+danaans(269): 
+eupeithes(291): 
+honour(298): honor holour 
+rumour(313): rumor 
+prophecyings(315): prophesyings 
+anchialus(316): 
+taphians(316): paphians 
+pisenor(323): 
+woollen(335): woolen woolen woolmen woolled 
+aegyptius(350): aegypius 
+ilius(351): filius ileus ilium 
+eurynomus(355): 
+pisenor(367): 
+aegyptius(368): aegypius 
+grieveance(372): grievance 
+tambour(409): tabour tambur tambor tambours 
+mycene(429): myrcene mycenae mycele 
+honour(434): honor holour 
+offence(446): offense 
+leiocritus(526): 
+evenor(526): evener evenoo 
+pisenor(607): 
+phronius(640): 
+harbour(644): harbor 
+pylian(704): 
+thrasymedes(712): 
+encirclest(724): encircles 
+pylian(727): 
+gerene(735): gerne serene gyrene gerent 
+honour(744): honor holour 
+neritum(746): nerium 
+favour(760): avour favor favous 
+psyra(810): psora 
+geraestus(815): 
+diomed(817): domed doomed dromed dimmed 
+poias(825): pias poas pois plias poils 
+honour(835): honor holour 
+sunium(896): senium 
+phrontis(897): 
+malean(903): calean malian 
+cydonians(906): 
+gortyn(908): 
+mycene(917): myrcene mycenae mycele 
+cauconians(966): 
+trito(976): trio trit triton tritor trigo trite 
+favour(976): avour favor favous 
+sceptre(999): scepter sceptry 
+echephron(1001): 
+stratius(1001): stratus stratous 
+thrasymedes(1002): 
+laerceus(1010): 
+stratius(1020): stratus stratous 
+echephron(1021): 
+thrasymedes(1023): 
+thrasymedes(1029): 
+diocles(1059): 
+ortilochus(1060): 
+diocles(1061): 
+honour(1074): honor holour 
+alector(1080): lector elector flector 
+neighbours(1084): neighbors 
+eteoneus(1089): 
+eteoneus(1095): 
+boethous(1095): 
+eteoneus(1101): 
+splendour(1106): splendor 
+woollen(1110): woolen woolen woolmen woolled 
+sceptre(1120): scepter sceptry 
+erembians(1137): 
+adraste(1167): agraste 
+woollen(1168): woolen woolen woolmen woolled 
+alcandra(1169): 
+coloured(1176): cloured colored 
+neighbouring(1207): neighboring 
+asphalion(1236): 
+humour(1241): humor humous 
+polydamna(1245): 
+paeeon(1248): paeon paeon paleon 
+honourable(1252): honorable 
+diomed(1282): domed doomed dromed dimmed 
+diomed(1283): domed doomed dromed dimmed 
+anticlus(1286): anticus anticous 
+anticlus(1288): anticus anticous 
+woollen(1296): woolen woolen woolmen woolled 
+favour(1321): avour favor favous 
+philomeleides(1329): 
+harbour(1339): harbor 
+halosydne(1377): 
+gyrae(1454): gyre gyrase gyrate gyral 
+gyrae(1459): gyre gyrase gyrate gyral 
+malea(1464): mala male dalea galea palea talea malta malva malwa malee maleo males 
+phaedimus(1547): 
+phronius(1558): 
+yourleave(1572): 
+eupeithes(1583): 
+arceisius(1657): 
+favour(1666): avour favor favous 
+armour(1681): amour armor 
+asteris(1726): asters asterias asterids asterisk asterism asterts asteria asterid asterin 
+harbour(1727): harbor 
+scheria(1758): sheria 
+phaeacians(1758): phaeacian 
+honour(1759): honor holour 
+honoured(1797): honored 
+ortygia(1824): 
+phaeacians(1943): phaeacian 
+danaans(1958): 
+honoured(1961): honored 
+phaecian(1986): phaeacian 
+aegae(2013): algae 
+phaeacians(2017): phaeacian 
+harbours(2030): harbors 
+harbour(2041): harbor 
+phaecians(2111): 
+hypereia(2112): hyperemia 
+scheria(2114): sheria 
+nausicaa(2121): 
+nausicaa(2126): 
+nausicaa(2128): 
+waggon(2138): wagon wagon saggon 
+nausicaa(2148): 
+waggon(2155): wagon wagon saggon 
+waggon(2166): wagon wagon saggon 
+waggon(2168): wagon wagon saggon 
+waggon(2170): wagon wagon saggon 
+waggon(2173): wagon wagon saggon 
+nausicaa(2177): 
+waggon(2184): wagon wagon saggon 
+nausicaa(2192): 
+taygetus(2193): 
+waggon(2199): wagon wagon saggon 
+phaeacians(2201): phaeacian 
+offence(2228): offense 
+nausicaa(2262): 
+phaeacians(2269): phaeacian 
+phaeacians(2274): phaeacian 
+nausicaa(2283): 
+phaeacians(2305): phaeacian 
+nausicaa(2312): 
+waggon(2313): wagon wagon saggon 
+phaecians(2318): 
+waggon(2320): wagon wagon saggon 
+harbour(2323): harbor 
+phaeacians(2329): phaeacian 
+nausicaa(2336): 
+neighbours(2339): neighbors 
+phaeacians(2343): phaeacian 
+waggon(2372): wagon wagon saggon 
+phaecians(2379): 
+waggon(2390): wagon wagon saggon 
+eurymedusa(2392): 
+apeira(2392): epeira 
+apeira(2393): epeira 
+phaecians(2394): 
+nausicaa(2395): 
+phaecians(2400): 
+phaecians(2416): 
+harbours(2419): harbors 
+phaecians(2433): 
+rhexenor(2434): 
+honours(2436): honors 
+honoured(2437): honored 
+scheria(2447): sheria 
+splendour(2451): splendor 
+phaecians(2461): 
+phaecians(2469): 
+colour(2484): clour color holour coleur 
+splendours(2490): splendors 
+phaecians(2494): 
+rhexenor(2502): 
+honours(2505): honors 
+echeneus(2510): echeneis 
+phaeacians(2511): phaeacian 
+favourite(2523): favorite 
+pontonous(2528): 
+pontonous(2532): 
+phaeacians(2535): phaeacian 
+honour(2538): honor holour 
+neighbours(2582): neighbors 
+afterwards(2646): afterward afterwords 
+woollen(2654): woolen woolen woolmen woolled 
+phaecian(2667): phaeacian 
+phaeacians(2672): phaeacian 
+phaecians(2679): 
+favourably(2680): favorably 
+phaeacians(2684): phaeacian 
+pontonous(2715): 
+danaans(2730): 
+phaeacians(2732): phaeacian 
+phaeacians(2735): phaeacian 
+phaeacians(2740): phaeacian 
+phaeacians(2749): phaeacian 
+acroneos(2751): 
+ocyalus(2751): 
+elatreus(2751): 
+nauteus(2752): 
+prymneus(2752): 
+anchialus(2752): 
+eretmeus(2752): 
+ponteus(2752): pontus pontes pontius 
+proreus(2752): prores proteus 
+anabesineus(2753): 
+amphialus(2753): amphibalus 
+polyneus(2753): 
+naubolus(2754): 
+phaecians(2755): 
+halios(2756): halos helios hallos halids 
+clytoneus(2756): 
+clytoneus(2759): 
+amphialus(2763): amphibalus 
+elatreus(2764): 
+labour(2806): labor tabour 
+phaeacians(2812): phaeacian 
+phaeacians(2814): phaeacian 
+cechalian(2841): 
+phaecians(2846): 
+sintians(2893): 
+dishonouring(2905): dishonoring 
+neighbour(2920): neighbor 
+hathed(2945): hated hatched bathed lathed oathed pathed rathed tathed hashed hatred hatted 
+phaeacians(2948): phaeacian 
+halius(2950): halitus halids 
+phaecians(2962): 
+phaeacians(2995): phaeacian 
+phaeacians(3006): phaeacian 
+nausicaa(3019): 
+nausicaa(3024): 
+favourite(3030): favorite 
+honoured(3036): honored 
+afterwards(3049): afterward afterwords 
+defence(3074): refence decence defense 
+labour(3078): labor tabour 
+phaeacians(3083): phaeacian 
+honour(3090): honor holour 
+neighbours(3098): neighbors 
+phaeacians(3103): phaeacian 
+danaans(3121): 
+reknowned(3144): renowned 
+neritum(3146): nerium 
+dulichium(3147): 
+cicons(3161): icons cions chicons cicone 
+cicons(3167): icons cions chicons cicone 
+cicons(3167): icons cions chicons cicone 
+cicons(3177): icons cions chicons cicone 
+cicons(3183): icons cions chicons cicone 
+malea(3193): mala male dalea galea palea talea malta malva malwa malee maleo males 
+neighbours(3219): neighbors 
+harbour(3220): harbor 
+harbour(3236): harbor 
+harbour(3239): harbor 
+cicons(3259): icons cions chicons cicone 
+euanthes(3283): 
+flavour(3289): flavor flavous 
+waggons(3320): wagons wagons 
+humour(3346): humor humous 
+esconced(3480): sconced ensconced 
+aeoli(3589): aoli aeolia aeolid aeolis anoli 
+hippotas(3590): 
+savour(3595): avour savor saviour 
+neighbour(3619): neighbor 
+honoured(3619): honored 
+telepylus(3652): 
+harbour(3659): harbor 
+reconnoitre(3665): reconnoiter 
+laestrygonian(3671): 
+harbour(3688): harbor 
+harbour(3698): harbor 
+reconnoitre(3702): reconnoiter 
+laestrygonian(3742): 
+colours(3762): clours colors 
+polites(3763): polies polite polistes polities politest iolites oolites pelites podites polices politei politer 
+hullabalooing(3904): 
+woollen(3941): woolen woolen woolmen woolled 
+armour(4072): amour armor 
+armour(4097): amour armor 
+sceptre(4110): scepter sceptry 
+thrinacian(4122): 
+prophecyings(4155): prophesyings 
+ilius(4168): filius ileus ilium 
+salmoneus(4218): salmonets 
+enipeus(4219): 
+iolcus(4232): holcus 
+aeson(4234): aeon meson arson 
+pheres(4234): heres spheres pheeres pheeres pheers theres wheres phares phenes pheses 
+oedipodes(4243): 
+orchomenus(4253): 
+chromius(4254): chromiums chromous chromium 
+phylace(4257): phylae 
+tyndarus(4264): 
+iphimedeia(4270): 
+aloeus(4270): aloes alveus 
+maera(4285): mara mwera matra 
+phaecians(4292): 
+echeneus(4297): echeneis 
+phaeacians(4303): phaeacian 
+defence(4341): refence decence defense 
+orchomenus(4381): 
+danaans(4388): 
+labour(4392): labor tabour 
+favour(4403): avour favor favous 
+valour(4422): valor palour valeur 
+ceteians(4426): 
+danaans(4430): 
+armour(4445): amour armor 
+danaans(4448): 
+armour(4452): amour armor 
+danaans(4456): 
+sceptre(4463): scepter sceptry 
+marvellous(4497): marvelous marvelous 
+labours(4505): labors tabours 
+armour(4534): amour armor 
+aetes(4581): ates atees betes cetes hetes metes netes retes antes aedes 
+armour(4620): amour armor 
+crataiis(4623): 
+thrinacian(4626): 
+lampetie(4630): 
+thrinacian(4633): 
+favourable(4661): favorable 
+honour(4673): honor holour 
+armour(4705): amour armor 
+harbour(4765): harbor 
+lampetie(4825): 
+reacfied(4872): 
+honour(4915): honor holour 
+favourite(4918): favorite 
+phaecians(4924): 
+pontonous(4935): 
+pontonous(4938): 
+harbour(4970): harbor 
+harbour(4973): harbor 
+harbour(4982): harbor 
+phaeacians(4987): phaeacian 
+phaeacians(4995): phaeacian 
+honoured(5006): honored 
+phaecian(5013): phaeacian 
+scheria(5021): sheria 
+phaecians(5022): 
+phaeacians(5026): phaeacian 
+neighbour(5027): neighbor 
+phaecians(5041): 
+harbours(5049): harbors 
+phaeacians(5056): phaeacian 
+phaeacians(5060): phaeacian 
+orsilochus(5097): 
+harbour(5111): harbor 
+phaeacians(5129): phaeacian 
+phaeacians(5131): phaeacian 
+phaeacians(5145): phaeacian 
+neritum(5168): nerium 
+phaecians(5183): 
+beechmast(5214): 
+labour(5293): labor tabour 
+ilius(5298): filius ileus ilium 
+booters(5312): bootes booter boosters cooters footers hooters looters mooters pooters rooters tooters boaters bolters boogers bookers boomers boozers bootees bootery 
+whereever(5360): wherever wherever whereover 
+honour(5360): honor holour 
+honoured(5377): honored 
+arceisius(5385): 
+hylax(5402): hyla hyrax hylas 
+honour(5402): honor holour 
+valour(5403): valor palour valeur 
+valour(5407): valor palour valeur 
+reconnoitre(5441): reconnoiter 
+armour(5448): amour armor 
+labour(5451): labor tabour 
+thesprotian(5485): 
+pheidon(5485): 
+pheidon(5495): 
+thesprotian(5502): 
+dulichium(5502): 
+dulichium(5550): 
+precepice(5552): precipice 
+savoury(5558): savory 
+labour(5565): labor tabour 
+honour(5584): honor holour 
+mesaulius(5593): 
+taphians(5594): paphians 
+mesaulius(5598): 
+armour(5614): amour armor 
+andraemon(5635): 
+eteoneus(5734): 
+phaedimus(5750): 
+eteoneus(5768): 
+diocles(5807): 
+ortilochus(5807): 
+pylians(5828): 
+phylacus(5840): 
+phylace(5843): phylae 
+oicleus(5848): 
+oicleus(5848): 
+polypheides(5852): 
+cleitus(5852): 
+cleitus(5853): 
+polypheides(5854): 
+hyperesia(5856): hyperemia 
+crouni(5887): 
+pheae(5890): phene phese pheal 
+neighbour(5939): neighbor 
+ctimene(5943): 
+ctimene(5945): 
+humour(5957): humor humous 
+syra(5976): syr syria syrma syrah eyra lyra sera sora stra sura syre syrt 
+ortygia(5977): 
+ormenus(5984): 
+arybas(5994): arbas arabas arobas 
+taphian(5995): paphian 
+harbour(6030): harbor 
+harbour(6049): harbor 
+thesprotian(6152): 
+emnity(6188): enmity 
+arceisius(6191): 
+neighbouring(6195): neighboring 
+dulichium(6195): 
+colour(6237): clour color holour coleur 
+colour(6244): clour color holour coleur 
+phaeacians(6277): phaeacian 
+dulichium(6293): 
+armour(6318): amour armor 
+favour(6342): avour favor favous 
+harbour(6347): harbor 
+armour(6348): amour armor 
+harbour(6369): harbor 
+armour(6375): amour armor 
+eupeithes(6378): 
+aretias(6401): 
+dulichium(6403): 
+favour(6406): avour favor favous 
+taphian(6427): paphian 
+harbour(6461): harbor 
+philomeleides(6565): 
+favourite(6595): favorite 
+ithacus(6622): 
+neritus(6622): peritus nerites 
+polyctor(6622): 
+afterwards(6728): afterward afterwords 
+reconnoitre(6801): reconnoiter 
+armour(6807): amour armor 
+labour(6810): labor tabour 
+dmetor(6811): 
+favour(6996): avour favor favous 
+neighbour(7007): neighbor 
+dulichium(7054): 
+dishonour(7067): dishonor 
+enamoured(7079): enamored 
+honour(7080): honor holour 
+enamoured(7120): enamored 
+iasian(7147): asian 
+polyctor(7193): 
+ind(7257): id in bind find hind kind lind mind pind rind sind tind wind inde indn indy nid and end itd iud ing ink inn ins 
+dulichium(7266): 
+neighbour(7270): neighbor 
+aretias(7279): 
+offence(7280): offense 
+dulichium(7287): 
+armour(7297): amour armor 
+armour(7308): amour armor 
+icmalius(7338): 
+favour(7360): avour favor favous 
+dulichium(7399): 
+tambour(7405): tabour tambur tambor tambours 
+eteocretans(7437): 
+malea(7445): mala male dalea galea palea talea malta malva malwa malee maleo males 
+amnisus(7446): 
+ilithuia(7446): 
+harbours(7446): harbors 
+xaging(7448): aging caging gaging naging paging raging saging waging 
+honour(7492): honor holour 
+honoured(7501): honored 
+thrinacian(7518): 
+phaecians(7522): 
+pheidon(7527): 
+thesprotian(7532): 
+dulichium(7532): 
+pheidon(7534): 
+honourable(7550): honorable 
+amphithea(7628): 
+splendour(7861): splendor 
+labour(7874): labor tabour 
+humouredly(7911): 
+cephallenians(7946): 
+behaviour(8021): behavior 
+damastor(8030): 
+offence(8031): offense 
+sicels(8081): sices sizels 
+ortilochus(8106): 
+valour(8116): valor palour valeur 
+dishonouring(8172): dishonoring 
+mycene(8180): myrcene mycenae mycele 
+leiodes(8211): 
+oenops(8211): 
+leiodes(8231): 
+afterwards(8281): afterward afterwords 
+peirithous(8333): 
+peirithous(8335): 
+dishonouring(8363): dishonoring 
+whereever(8371): wherever wherever whereover 
+clamoured(8386): clamored 
+humour(8400): humor humous 
+byblus(8410): biblus 
+fibre(8410): fire fiber libre fiere fibra fibro fibry 
+neighbour(8416): neighbor 
+colour(8426): clour color holour coleur 
+centre(8431): entre centare centure centref centrev centrex center centra centro centry 
+armour(8526): amour armor 
+armour(8531): amour armor 
+armour(8534): amour armor 
+armour(8558): amour armor 
+armour(8568): amour armor 
+armour(8598): amour armor 
+damastor(8630): 
+eurynomus(8630): 
+amphimedon(8630): 
+demoptolemus(8631): 
+polyctor(8631): 
+demoptolemus(8649): 
+euryades(8649): 
+amphimedon(8657): 
+amphimedon(8661): 
+polytherses(8663): 
+damastor(8668): 
+leocritus(8669): 
+evenor(8669): evener evenoo 
+leiodes(8682): 
+leiodes(8695): 
+terpes(8697): herpes tempes terces terfes termes ternes terpen 
+afterwards(8708): afterward afterwords 
+euryclea(8829): 
+neighbours(8940): neighbors 
+rumours(8942): rumors 
+marvellous(8981): marvelous marvelous 
+vigour(8983): vigor 
+centre(8990): entre centare centure centref centrev centrex center centra centro centry 
+lampus(9026): lamps campus mampus wampus lampas 
+cicons(9076): icons cions chicons cicone 
+laestrygonian(9082): 
+telepylos(9082): 
+phaeacians(9098): phaeacian 
+armour(9120): amour armor 
+armour(9121): amour armor 
+labour(9140): labor tabour 
+danaans(9143): 
+aeisthus(9147): aegisthus 
+danaans(9164): 
+armour(9181): amour armor 
+honour(9198): honor holour 
+amphimedon(9206): 
+melaneus(9207): melanous 
+amphimedon(9209): 
+defence(9214): refence decence defense 
+amphimedon(9220): 
+tambour(9226): tabour tambur tambor tambours 
+splendour(9241): splendor 
+armour(9253): amour armor 
+honour(9279): honor holour 
+labour(9287): labor tabour 
+armour(9295): amour armor 
+unsavoury(9317): unsavory 
+arceisius(9331): 
+alybas(9361): albas 
+apheidas(9361): 
+eperitus(9362): peritus emeritus 
+sicania(9363): 
+cephallenians(9403): 
+cephallenians(9418): 
+nericum(9419): nerium 
+armour(9420): amour armor 
+rumour(9445): rumor 
+eupeithes(9453): 
+cephallenians(9459): 
+afterwards(9461): afterward afterwords 
+mastor(9476): astor castor pastor master 
+dishonouring(9482): dishonoring 
+eupeithes(9490): 
+armour(9490): amour armor 
+eupeithes(9492): 
+armour(9512): amour armor 
+armour(9513): amour armor 
+armour(9516): amour armor 
+valour(9528): valor palour valeur 
+arceisius(9529): 
+vigour(9532): vigor 
+eupeithes(9533): 
+armour(9535): amour armor 
